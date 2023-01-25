@@ -1,1 +1,1 @@
-DEMO: https://github.com/dmitev2000/Wordle
+DEMO: https://dmitev2000.github.io/Wordle/
